@@ -28,6 +28,8 @@ Moducard Base module -> https://github.com/ArthorH/ModuCard-base-module
 
 
 # Interested in AMS? Here's other projects:
+<img width="788" height="532" alt="image" src="https://github.com/user-attachments/assets/66e5454a-1da9-4d81-a3e6-83733a002a5d" />
+
 - Backplane -> https://github.com/ArthorH/AriadnaModularSystem-Backplane
 - Power Injector -> https://github.com/ArthorH/AriadnaModularSystem-PowerInjector
 - AS5048 Nema Adapter -> https://github.com/ArthorH/AS5048-Nema-Adapter

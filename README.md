@@ -26,6 +26,16 @@ Moducard Base module -> https://github.com/ArthorH/ModuCard-base-module
 
 ![ezgif-5062213efaebb7](https://github.com/user-attachments/assets/1c6d2976-b773-4642-ad22-0548754e4d04)
 
+
+# Interested in AMS? Here's other projects:
+- Backplane -> https://github.com/ArthorH/AriadnaModularSystem-Backplane
+- Power Injector -> https://github.com/ArthorH/AriadnaModularSystem-PowerInjector
+- AS5048 Nema Adapter -> https://github.com/ArthorH/AS5048-Nema-Adapter
+- OdriveShield -> https://github.com/ArthorH/AriadnaModularSystem-OdriveShield
+- PrototypeBoard -> https://github.com/ArthorH/AriadnaModularSystem-PrototypeBoard
+- Can Triplet -> https://github.com/ArthorH/AriadnaModularSystem-CanTriplet
+- RapsberryPie -> https://github.com/ArthorH/AriadnaModularSystem-RapsberryPie
+
 # Author
 Artem Horiunov
 # License 
